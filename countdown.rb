@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown_with_sleep(1)
+def countdown
   x=0
   while x = 10
     puts "#{x} SECOND(S)!"
